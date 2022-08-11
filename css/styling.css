@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-weight: bold;
+    margin: 20px auto;
+    background-image: url(/BG.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    margin:10px auto;
+}
+
+h2{
+    font-size: 50px;
+    margin: 0 auto 20px auto;
+}
+
+#count{
+    background-color: orchid;
+    color: aquamarine;
+    cursor: pointer;
+    border: none;
+    padding: 5px 20px;
+}
+
+#store{
+  cursor: pointer;
+}
+
+#entry-save{
+    color: indigo;
+    font-size: 20px;
+}
+p{
+    font-weight: bolder;
+    font-size: 25px;
+    text-transform:capitalize;
+    color: navy;
+}
