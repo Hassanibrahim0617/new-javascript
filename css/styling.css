@@ -2,7 +2,7 @@ body{
     text-align: center;
     font-weight: bold;
     margin: 20px auto;
-    background-image: url(/BG.jpg);
+    background-image: url(../BG.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
